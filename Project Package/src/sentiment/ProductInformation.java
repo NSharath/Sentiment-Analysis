@@ -43,8 +43,7 @@ public class ProductInformation
 		      rs = stmt.executeUpdate(sql);
 		     
 			 //System.out.println(rs);
-             //System.out.println("Varun");
-		     //STEP 5: Extract data from result set
+            	     //STEP 5: Extract data from result set
 		   /*  while(rs.next()){
 		        //Retrieve by column name
 		        int id  = rs.getInt("id");
